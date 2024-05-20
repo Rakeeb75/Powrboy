@@ -13,7 +13,8 @@
          this.Power = Power ;
      }
        public Poweboy() {
-
+            //comment
+           //hi batch 86
      }
          void Jump () {
              System.out.println("Powerboy can Study");
